@@ -1,1 +1,1 @@
-# TFlearn-CNN-template
+# TFlearn-CNN
