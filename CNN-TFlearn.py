@@ -6,7 +6,6 @@ from tflearn.layers.estimator import regression
 
 ## mnist dataset - 55000 samples
 X, Y, test_x, test_y = mnist.load_data(one_hot=True)
-print(test_x)
 
 # conv_2d
 # INPUT  4-D Tensor [batch, height, width, in_channels = columns].
